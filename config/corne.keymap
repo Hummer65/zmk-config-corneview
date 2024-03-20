@@ -48,8 +48,8 @@
                         bindings = <
             &trans &kp EXCL  &kp AT   &kp HASH  &kp DLLR  &kp PRCNT    &kp FSLH &kp BSLH  &kp LPAR  &kp RPAR &kp UNDER &trans
             &trans &kp ESC   &kp AMPS &kp FSLH  &kp ASTRK &kp CARET    &trans   &kp GRAVE &kp LBKT  &kp RBKT &kp SQT   &trans
-            &trans &kp LGUI  &kp PIPE &kp MINUS &kp PLUS  &kp EQUAL    &trans   &TILDE    &kp LBRC  &kp RBRC &trans    &trans
-                             &kp TAB &trans   &kp SPACE   &kp LSHFT   &trans    &kp RALT
+            &trans &kp LGUI  &kp PIPE &kp MINUS &kp PLUS  &kp EQUAL    &trans   &kp TILDE &kp LBRC  &kp RBRC &trans    &trans
+                             &kp TAB  &trans    &kp SPACE &kp LSHFT    &trans   &kp RALT
                         >;
                 };
         };
